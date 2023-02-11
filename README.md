@@ -15,6 +15,7 @@
   - LPSTK-CC1352R (sensor node connected to vaccine carrier cold box)  
   
   Programming Guide
+  - Install SimpleLink™ CC13xx and CC26xx software development kit (SDK) version 5.10.
   - Import CCS Project to TI Code Composer Studio v10.3 workspace.
   - Rebuild All. HEX file generated can be found at \Release folder
   - Program hex file using TI SmartRF FLash Programmer v1.8.0.
