@@ -1,5 +1,6 @@
    
   Project Name: Vaccine Carrier Cold Box Temperature Monitoring
+  
   Author: Markel Robregado
   
   Hackster project: https://www.hackster.io/mtrobregado/aws-iot-vaccine-carrier-cold-box-9c7fba
